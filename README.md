@@ -13,6 +13,9 @@ import java.util.Scanner;
 	System.out.println("KDV'li Tutar:" + Vergili_Tutar);
 	System.out.println("KDV Oranı %18");
 	System.out.print("KDV Tutarı " + Vergi_Tutari);	}	
+	
+	
+	www.patika.dev
 
 
 
